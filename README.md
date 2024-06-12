@@ -1,6 +1,10 @@
 # Data Mining Assignment 1
 > TDS3301 Assignment 1 || Year 3 Trimester 1
 
+1211300373_DM_Assignment1_PrepEDA refers to the dataset prepation and EDA.
+
+1211300373_DM_Assignment1_DM refers to the association rule mining portion.
+
 Exploration of 4 exploratory questions to be answered via association rule mining
 
 # Problem Questions
